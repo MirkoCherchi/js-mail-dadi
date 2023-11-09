@@ -13,6 +13,8 @@
 
 ## Risultato
 
+Rappresentazione molto basic del gioco, cliccando sul pulsante 'tira dati' si genereranno dei numeri casuali per il giocatore e per il computer, al centro uscirà il nome del vincitore.
+
 ![Dadi](./Dadi/img/Screenshot%202023-11-09%20175735.png)
 
 ## 🔗 Contatti
