@@ -9,7 +9,7 @@
 
 1. Creiamo un profilo giocatore e generiamo dei numeri casuali da 1 a 6
 2. Creiamo un profilo computer e generiamo dei numeri casuali da 1 a 6
-3. Mettiamo a confronto il numero del giocatore con quello del computer, il numero più alto vincerà
+3. Mettiamo a confronto il numero del giocatore con quello del computer, il numero più alto vincerà, altrimenti se i numeri sono uguali sarà un pareggio.
 
 ## Risultato
 
