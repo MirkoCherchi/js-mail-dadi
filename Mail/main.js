@@ -12,7 +12,7 @@ for (let verifica = 0; verifica < emailArray.length; verifica++){
     }
 }
 
-if (emailCorretta) {
+if (emailCorretta === true) {
     console.log('Email corretta: ', emailRichiesta);
     alert ('email corretta')
     
@@ -20,8 +20,4 @@ if (emailCorretta) {
 console.log('Email errata: ', emailRichiesta);
     alert ('email errata');
 }
-
-    
-
-
 
